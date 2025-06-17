@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan David Alvarado Camacho
 
-📊 **Científico de Datos Junior** con formación en **Ingeniería Civil** y especialización en **Gerencia Integral de Proyectos**.
+📊 **Científico de Datos Junior** con especialización en **Gerencia Integral de Proyectos**.
 
 💻 Apasionado por la ciencia de datos, el aprendizaje automático y la visualización, con experiencia en el análisis y modelamiento de datos estructurados, manejo de bases de datos y aplicación de modelos predictivos.
 
