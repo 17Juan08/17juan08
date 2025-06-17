@@ -31,8 +31,9 @@
 
 ## 📫 ¿Conectamos?
 
-- [LinkedIn](linkedin.com/in/juan-alvarado-camacho)  
-- 📬 juan98022@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-alvarado-camacho/)
+
+📬 juan98022@gmail.com
 
 ---
 
