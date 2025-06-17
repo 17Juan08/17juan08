@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan David Alvarado Camacho
+# 👋 Hola, soy Juan
 
 📊 **Científico de Datos Junior** con especialización en **Gerencia Integral de Proyectos**.
 
