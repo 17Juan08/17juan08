@@ -50,7 +50,7 @@
 - 🎮 **Análisis de ventas de videojuegos**  
   Proyecto de análisis exploratorio y visualización de datos enfocado en ventas globales de videojuegos.  
   Incluye limpieza de datos, análisis por plataforma, género y región, además de insights clave para toma de decisiones comerciales.  
-  [🔗 Ver repositorio](https://github.com/17Juan08/Analisis-de--tienda-de-Videojuegos-ICE) _(en desarrollo)_
+  [🔗 Ver repositorio](https://github.com/17Juan08/Analisis-de--tienda-de-Videojuegos-ICE) 
   
 
 ## 📫 ¿Conectamos?
