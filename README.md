@@ -40,6 +40,18 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+## 📂 Proyectos destacados
+
+- 📌 **Análisis de comportamiento de clientes con Machine Learning**  
+  Proyecto que explora patrones de comportamiento de clientes utilizando técnicas de Machine Learning básicas.  
+  Incluye análisis exploratorio, preprocesamiento de datos y modelo de clasificación supervisado.  
+  [🔗 Ver repositorio](https://github.com/17Juan08/Modelo-simple-analisis-de-comportamiento-clientes) _(en desarrollo)_
+
+- 🎮 **Análisis de ventas de videojuegos**  
+  Proyecto de análisis exploratorio y visualización de datos enfocado en ventas globales de videojuegos.  
+  Incluye limpieza de datos, análisis por plataforma, género y región, además de insights clave para toma de decisiones comerciales.  
+  [🔗 Ver repositorio](https://github.com/17Juan08/Analisis-de--tienda-de-Videojuegos-ICE) _(en desarrollo)_
+  
 
 ## 📫 ¿Conectamos?
 
